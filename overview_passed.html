@@ -1,0 +1,72 @@
+<!DOCTYPE html >
+
+<html lang="en">
+<head>
+    <title>test reports</title>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <meta name="description" content="TestNG unit test results." />
+
+    <style>
+        table, td{border:1px solid #ddd;}
+        table{
+            border-collapse: collapse;
+            margin-top:10px;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Test Reports</h1>
+<table border="1" width="800">
+    <tr>
+        <th colspan="10" align="left" style="background-color: darkgrey">OverView</th>
+    </tr>
+    <tr class="columnHeadings">
+        <th> TestResult </th>
+        <th> All </th>
+        <th> Excluded </th>
+        <th style="color: green"> Passed </th>
+        <th style="color: red"> Failed </th>
+        <th style="color: darkgray"> Skipped </th>
+        <th>Duration(s)</th>
+        <th>Passration</th>
+    </tr>
+    <tr>
+        <td align="center">Summary</td>
+        <td align="center">$overView.allTestsSize</td>
+        <td align="center">$overView.excludeTestsSize</td>
+        <th style="color: green" align="center">$overView.passedTestsSize</th>
+        <th style="color: red" align="center">$overView.failedTestsSize</th>
+        <th style="color: orange" align="center">$overView.skippedTestsSize</th>
+        <td align="center">$overView.testsTime</td>
+        <td align="center">$overView.passPercent</td>
+    </tr>
+    <tr></tr>
+</table>
+
+<table border="1" width="800">
+    <tr>
+        <th colspan="10"  align="left"  style="background-color: green">Pass</th>
+    </tr>
+    <tr class="columnHeadings">
+        <th >ID</th>
+        <th>Description</th>
+        <th>TestName</th>
+        <th>Duration(s)</th>
+        <th>Status</th>
+    </tr>
+
+    #foreach( $p in $pass)
+    <tr>
+        <td align="center">$velocityCount</td>
+        <td >${p.description}</td>
+        <td >${p.testName}</td>
+        <td align="center">$p.duration</td>
+        <th style="color: green" align="center">
+            Passed
+        </th>
+        #end
+    </tr>
+</table>
+</body>
+</html>

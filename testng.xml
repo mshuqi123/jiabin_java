@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" > <!--parallel="true"  并行-->
+<test name="Test" >
+    <classes>
+        <class name="com.comics.autotest.testcases.BaseTest"/>
+    </classes>
+    <listeners>
+        <listener class-name="GenerateReporter" />
+    </listeners>
+</test><!--Test-->
+</suite><!--Suite-->
