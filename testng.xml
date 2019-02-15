@@ -5,7 +5,7 @@
         <class name="com.comics.jiabin.testcases.BaseTest"/>
     </classes>
     <listeners>
-        <listener class-name="GenerateReporter" />
+        <listener class-name="com.comics.jiabin.awutils.GenerateReporter"/>
     </listeners>
 </test><!--Test-->
 </suite><!--Suite-->
