@@ -2,7 +2,7 @@
 <suite name="Suite" > <!--parallel="true"  并行-->
 <test name="Test" >
     <classes>
-        <class name="com.comics.autotest.testcases.BaseTest"/>
+        <class name="com.comics.jiabin.testcases.BaseTest"/>
     </classes>
     <listeners>
         <listener class-name="GenerateReporter" />

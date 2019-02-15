@@ -44,12 +44,12 @@ public class youxTest extends AwUtils{
         findElementByIdAndClearSendkeys("fromStationText","上海");
         findElementByXpathAndClick("//*[@id='citem_2']");
         Thread.sleep(5000);
-//        driver.close();
+        driver.close();
     }
-    @AfterMethod
-    public void teardown() throws IOException {
-        if (null != driver) {
-            driver.quit();
-        }
-    }
+//    @AfterMethod
+//    public void teardown() throws IOException {
+//        if (null != driver) {
+//            driver.quit();
+//        }
+//    }
 }
