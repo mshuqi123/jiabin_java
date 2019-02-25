@@ -8,7 +8,7 @@ public class EntryTest {
 
     public static void main(String[] args) {
         TestNG testNG = new TestNG();
-        Class[] classes = {BaseTest.class, youxTest.class, DriverTest.class};
+        Class[] classes = {BaseTest.class, youxTest.class, DriverTest.class, WuyongTest.class};
         testNG.setTestClasses(classes);
         testNG.run();
     }

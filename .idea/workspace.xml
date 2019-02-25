@@ -2,22 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e55719ec-9dfd-47e4-ab30-46a7db8491ce" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/comics/jiabin/testcases/WuyongTest.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/report.html" afterPath="$PROJECT_DIR$/report.html" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/comics/jiabin/Entry.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/comics/jiabin/Entry.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/comics/jiabin/awutils/SetupDriver.java" afterPath="$PROJECT_DIR$/src/test/java/com/comics/jiabin/awutils/SetupDriver.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/comics/jiabin/testcases/EntryTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/comics/jiabin/testcases/EntryTest.java" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/comics/jiabin/awutils/SetupDriver.class" afterPath="$PROJECT_DIR$/target/test-classes/com/comics/jiabin/awutils/SetupDriver.class" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/comics/jiabin/testcases/EntryTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/comics/jiabin/testcases/EntryTest.class" />
       <change beforePath="$PROJECT_DIR$/test-output/Command line suite/Command line test.html" afterPath="$PROJECT_DIR$/test-output/Command line suite/Command line test.html" />
       <change beforePath="$PROJECT_DIR$/test-output/Command line suite/Command line test.xml" afterPath="$PROJECT_DIR$/test-output/Command line suite/Command line test.xml" />
+      <change beforePath="$PROJECT_DIR$/test-output/Command line suite/testng-failed.xml" afterPath="$PROJECT_DIR$/test-output/Command line suite/testng-failed.xml" />
       <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" />
       <change beforePath="$PROJECT_DIR$/test-output/index.html" afterPath="$PROJECT_DIR$/test-output/index.html" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.comics.jiabin.testcases.BaseTest.xml" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.comics.jiabin.testcases.BaseTest.xml" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.comics.jiabin.testcases.DriverTest.xml" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.comics.jiabin.testcases.DriverTest.xml" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.comics.jiabin.testcases.youxTest.xml" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.comics.jiabin.testcases.youxTest.xml" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Command line suite/classes.html" afterPath="$PROJECT_DIR$/test-output/old/Command line suite/classes.html" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Command line suite/groups.html" afterPath="$PROJECT_DIR$/test-output/old/Command line suite/groups.html" />
       <change beforePath="$PROJECT_DIR$/test-output/old/Command line suite/methods-alphabetical.html" afterPath="$PROJECT_DIR$/test-output/old/Command line suite/methods-alphabetical.html" />
       <change beforePath="$PROJECT_DIR$/test-output/old/Command line suite/methods.html" afterPath="$PROJECT_DIR$/test-output/old/Command line suite/methods.html" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Command line suite/testng.xml.html" afterPath="$PROJECT_DIR$/test-output/old/Command line suite/testng.xml.html" />
       <change beforePath="$PROJECT_DIR$/test-output/old/Command line suite/toc.html" afterPath="$PROJECT_DIR$/test-output/old/Command line suite/toc.html" />
       <change beforePath="$PROJECT_DIR$/test-output/old/index.html" afterPath="$PROJECT_DIR$/test-output/old/index.html" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" />
       <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" afterPath="$PROJECT_DIR$/testng.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -35,21 +40,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="AwUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/comics/jiabin/awutils/AwUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2525">
-              <caret line="107" column="21" lean-forward="false" selection-start-line="107" selection-start-column="21" selection-end-line="107" selection-end-column="21" />
+            <state relative-caret-position="1350">
+              <caret line="95" column="33" lean-forward="false" selection-start-line="95" selection-start-column="33" selection-end-line="95" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EntryTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/comics/jiabin/testcases/EntryTest.java">
+      <file leaf-file-name="WuyongTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/comics/jiabin/testcases/WuyongTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="18" />
+            <state relative-caret-position="-450">
+              <caret line="24" column="44" lean-forward="false" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -57,12 +62,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/testng.xml">
+      <file leaf-file-name="SetupDriver.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/comics/jiabin/awutils/SetupDriver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="67" lean-forward="true" selection-start-line="7" selection-start-column="67" selection-end-line="7" selection-end-column="67" />
-              <folding />
+            <state relative-caret-position="50">
+              <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#926#927#0" expanded="true" />
+                <element signature="e#957#958#0" expanded="true" />
+                <element signature="e#1010#1011#0" expanded="true" />
+                <element signature="e#1063#1064#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -107,7 +118,6 @@
         <option value="$PROJECT_DIR$/src/test/java/com/comics/jiabin/BaseUtil/ConnectDatabaseUtil.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/comics/jiabin/BaseUtil/HttpUriRequestUtil.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/comics/jiabin/BaseUtil/ExcelReaderUtil.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/comics/jiabin/awutils/SetupDriver.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/comics/jiabin/testcases/MTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/comics/jiabin/testcases/BaseTest.java" />
         <option value="$PROJECT_DIR$/config/default.properties" />
@@ -118,8 +128,10 @@
         <option value="$PROJECT_DIR$/src/test/java/com/comics/jiabin/testcases/DriverTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/comics/jiabin/Entry.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/com/comics/jiabin/testcases/EntryTest.java" />
         <option value="$PROJECT_DIR$/testng.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/comics/jiabin/testcases/EntryTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/comics/jiabin/awutils/SetupDriver.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/comics/jiabin/testcases/WuyongTest.java" />
       </list>
     </option>
   </component>
@@ -211,6 +223,15 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="jiabin" type="462c0819:PsiDirectoryNode" />
+              <item name="awutils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jiabin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jiabin_java_selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jiabin" type="462c0819:PsiDirectoryNode" />
               <item name="testcases" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -239,7 +260,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EntryTest">
+  <component name="RunManager" selected="TestNG.WuyongTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -299,26 +320,6 @@
       <module name="" />
       <envs />
     </configuration>
-    <configuration name="All in jiabin_java_selenium" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="jiabin_java_selenium" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="package" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -328,31 +329,6 @@
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="com.comics.jiabin.testcases in jiabin_java_selenium" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.comics.jiabin.testcases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="jiabin_java_selenium" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.comics.jiabin.testcases" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="package" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -382,6 +358,70 @@
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="WuyongTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.comics.jiabin.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="jiabin_java_selenium" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.comics.jiabin.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.comics.jiabin.testcases.WuyongTest" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="WuyongTest.historyPages" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.comics.jiabin.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="jiabin_java_selenium" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.comics.jiabin.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.comics.jiabin.testcases.WuyongTest" />
+      <option name="METHOD_NAME" value="historyPages" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -432,19 +472,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.All in jiabin_java_selenium" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.com.comics.jiabin.testcases in jiabin_java_selenium" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Entry" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.D:/moxiu/jiabin_java_selenium/testng.xml" />
-      <item index="4" class="java.lang.String" itemvalue="Application.EntryTest" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Entry" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.D:/moxiu/jiabin_java_selenium/testng.xml" />
+      <item index="2" class="java.lang.String" itemvalue="Application.EntryTest" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.WuyongTest" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.WuyongTest.historyPages" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.EntryTest" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.D:/moxiu/jiabin_java_selenium/testng.xml" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Entry" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.com.comics.jiabin.testcases in jiabin_java_selenium" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.All in jiabin_java_selenium" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.WuyongTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.EntryTest" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.WuyongTest.historyPages" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.D:/moxiu/jiabin_java_selenium/testng.xml" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Entry" />
       </list>
     </recent_temporary>
   </component>
@@ -465,35 +505,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_jiabin_java_selenium - 2019.02.22 at 18h 09m 42s.xml">
-      <configuration name="All in jiabin_java_selenium" configurationId="JUnit" />
+    <history-entry file="WuyongTest - 2019.02.25 at 15h 34m 37s.xml">
+      <configuration name="WuyongTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__moxiu_jiabin_java_selenium_testng_xml - 2019.02.25 at 11h 22m 18s.xml">
-      <configuration name="D:/moxiu/jiabin_java_selenium/testng.xml" configurationId="TestNG" />
+    <history-entry file="WuyongTest - 2019.02.25 at 15h 43m 21s.xml">
+      <configuration name="WuyongTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="com_comics_jiabin_testcases_in_jiabin_java_selenium - 2019.02.22 at 18h 10m 45s.xml">
-      <configuration name="com.comics.jiabin.testcases in jiabin_java_selenium" configurationId="JUnit" />
+    <history-entry file="WuyongTest - 2019.02.25 at 15h 46m 40s.xml">
+      <configuration name="WuyongTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="com_comics_jiabin_testcases_in_jiabin_java_selenium - 2019.02.22 at 18h 11m 40s.xml">
-      <configuration name="com.comics.jiabin.testcases in jiabin_java_selenium" configurationId="JUnit" />
+    <history-entry file="WuyongTest - 2019.02.25 at 15h 48m 00s.xml">
+      <configuration name="WuyongTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="youxTest - 2019.02.22 at 17h 58m 04s.xml">
-      <configuration name="youxTest" configurationId="TestNG" />
+    <history-entry file="WuyongTest - 2019.02.25 at 15h 51m 58s.xml">
+      <configuration name="WuyongTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="youxTest_qidongUi - 2019.02.22 at 17h 35m 17s.xml">
-      <configuration name="youxTest.qidongUi" configurationId="TestNG" />
+    <history-entry file="WuyongTest - 2019.02.25 at 15h 54m 26s.xml">
+      <configuration name="WuyongTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="youxTest_qidongUi - 2019.02.22 at 17h 40m 10s.xml">
-      <configuration name="youxTest.qidongUi" configurationId="TestNG" />
+    <history-entry file="WuyongTest - 2019.02.25 at 16h 03m 49s.xml">
+      <configuration name="WuyongTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="youxTest_qidongUi - 2019.02.22 at 17h 41m 43s.xml">
-      <configuration name="youxTest.qidongUi" configurationId="TestNG" />
+    <history-entry file="WuyongTest - 2019.02.25 at 16h 08m 54s.xml">
+      <configuration name="WuyongTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="youxTest_qidongUi - 2019.02.22 at 17h 54m 32s.xml">
-      <configuration name="youxTest.qidongUi" configurationId="TestNG" />
+    <history-entry file="WuyongTest - 2019.02.25 at 16h 13m 02s.xml">
+      <configuration name="WuyongTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="youxTest_qidongUi - 2019.02.22 at 17h 55m 08s.xml">
-      <configuration name="youxTest.qidongUi" configurationId="TestNG" />
+    <history-entry file="WuyongTest - 2019.02.25 at 16h 14m 06s.xml">
+      <configuration name="WuyongTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -607,6 +647,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1125">
           <caret line="64" column="6" lean-forward="true" selection-start-line="64" selection-start-column="6" selection-end-line="64" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -684,6 +725,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="800">
           <caret line="32" column="15" lean-forward="true" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -780,6 +822,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -790,28 +835,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/default.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/comics/jiabin/awutils/SetupDriver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/comics/jiabin/awutils/SelectDriver.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/comics/jiabin/awutils/DriverBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="27" column="36" lean-forward="true" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/comics/jiabin/testcases/youxTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -823,28 +847,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Sele_nium.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/comics/jiabin/testcases/MTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="31" column="67" lean-forward="false" selection-start-line="31" selection-start-column="67" selection-end-line="31" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/comics/jiabin/awutils/AwUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="46" column="45" lean-forward="false" selection-start-line="46" selection-start-column="45" selection-end-line="46" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1541#1542#0" expanded="false" />
-            <element signature="e#1595#1596#0" expanded="false" />
-            <element signature="e#1667#1668#0" expanded="false" />
-            <element signature="e#1728#1729#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/comics/jiabin/Entry.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -863,27 +865,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2525">
-          <caret line="107" column="21" lean-forward="false" selection-start-line="107" selection-start-column="21" selection-end-line="107" selection-end-column="21" />
+        <state relative-caret-position="383">
+          <caret line="119" column="1" lean-forward="true" selection-start-line="119" selection-start-column="1" selection-end-line="119" selection-end-column="1" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/comics/jiabin/testcases/BaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/comics/jiabin/testcases/EntryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -892,6 +876,82 @@
         <state relative-caret-position="175">
           <caret line="7" column="67" lean-forward="true" selection-start-line="7" selection-start-column="67" selection-end-line="7" selection-end-column="67" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/comics/jiabin/testcases/MTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="31" column="67" lean-forward="false" selection-start-line="31" selection-start-column="67" selection-end-line="31" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/default.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="32" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/comics/jiabin/testcases/EntryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="77" lean-forward="false" selection-start-line="10" selection-start-column="77" selection-end-line="10" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/comics/jiabin/testcases/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="34" column="31" lean-forward="false" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/comics/jiabin/awutils/DriverBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="28" column="48" lean-forward="true" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/comics/jiabin/awutils/AwUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="95" column="33" lean-forward="false" selection-start-line="95" selection-start-column="33" selection-end-line="95" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/comics/jiabin/awutils/SetupDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#926#927#0" expanded="true" />
+            <element signature="e#957#958#0" expanded="true" />
+            <element signature="e#1010#1011#0" expanded="true" />
+            <element signature="e#1063#1064#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/comics/jiabin/testcases/WuyongTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-450">
+          <caret line="24" column="44" lean-forward="false" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
