@@ -24,9 +24,9 @@ public class DriverBase{
     //构造方法
     public DriverBase(String browser) {
         //初始化浏览器选择类
-        SelectDriver selectDriver=new SelectDriver();
+//        SelectDriver selectDriver=new SelectDriver();
         //把确定之后的浏览器实例赋值给当前的Webdriver
-        this.driver=selectDriver.driverName();
+//        this.driver=selectDriver.driverName();
     }
 
     /*

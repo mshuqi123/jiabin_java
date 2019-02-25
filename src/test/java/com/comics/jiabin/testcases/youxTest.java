@@ -25,26 +25,34 @@ import javax.print.DocFlavor;
 
 @Listeners({com.comics.jiabin.awutils.GenerateReporter.class})
 public class youxTest extends AwUtils{
-//    private WebDriver driver;
     @BeforeMethod
     public void setUp() throws IOException, InterruptedException {
-//        getDrive();
+//        driver = set.driver();
         System.out.println("selenium");
     }
     @Test(groups = {"qidongUi","BaseTest"},description = "首次启动163邮箱",priority = 1)
     public void qidongUi() throws InterruptedException{
 //        driver.findElement(By.id("kw")).sendKeys("selenium java");
-        findElementByIdAndClearSendkeys("fromStationText","北京");
-        findElementByXpathAndClick("//*[@id='citem_2']");
+//        findElementByIdAndClearSendkeys("fromStationText","北京");
+//        findElementByXpathAndClick("//*[@id='citem_2']");
+//        driver.findElement(By.id("kw")).sendKeys("selenium java");
+//        driver.findElement(By.id("su")).click();
+//        findByidsend(driver,"kw","selenium java");
+//        findByidClick(driver,"su");
+//        Thread.sleep(5000);
+//        findElementByIdAndClearSendkeys("kw","kw","java");
+//        findElementByIdAndClick("su");
         Thread.sleep(5000);
 //        driver.close();
     }
     @Test(groups = {"shuruTest","BaseTest"},description = "输入地址",priority = 2)
     public void shuruTest() throws InterruptedException{
-        findElementByIdAndClearSendkeys("fromStationText","上海");
-        findElementByXpathAndClick("//*[@id='citem_2']");
+//        findElementByIdAndClearSendkeys("fromStationText","上海");
+//        findElementByXpathAndClick("//*[@id='citem_2']");
+//        driver.findElement(By.id("kw")).sendKeys("selenium");
+//        driver.findElement(By.id("su")).click();
         Thread.sleep(5000);
-        driver.close();
+//        driver.close();
     }
 //    @AfterMethod
 //    public void teardown() throws IOException {
