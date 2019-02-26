@@ -6,10 +6,10 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 //浏览器的基类
-public class SetupDriver {
-    public WebDriver driver;
+public class BaseDriver {
+    public static WebDriver driver;
     //启动并打开指定测试网页
-    public void setup() {
+    public static void setup(){
         ConfigManagerUtil config = new ConfigManagerUtil();
         String url  = config.get("testurl");
         driver = new ChromeDriver();

@@ -1,28 +1,15 @@
 package com.comics.jiabin.testcases;
 
-import com.comics.jiabin.awutils.AwUtils;
-import com.comics.jiabin.awutils.SetupDriver;
-import io.github.bonigarcia.wdm.WebDriverManager;
-import com.comics.jiabin.BaseUtil.*;
+import com.comics.jiabin.awutils.BaseDriver;
 import org.openqa.selenium.By;
-import org.openqa.selenium.TakesScreenshot;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
-import org.testng.Assert;
 import org.testng.annotations.*;
 
 import java.io.IOException;
-import java.net.MalformedURLException;
 //import java.time.Duration;
-import java.util.List;
 
-import javax.print.DocFlavor;
 
 @Listeners({com.comics.jiabin.awutils.GenerateReporter.class})
-public class WuyongTest extends SetupDriver{
+public class WuyongTest extends BaseDriver {
     @BeforeMethod
     public void setUp() throws IOException, InterruptedException {
         setup();

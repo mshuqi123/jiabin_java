@@ -112,6 +112,10 @@
                 <version>2.7.1</version>
                 <configuration>
                     <skipTests>true</skipTests>
+                    <suiteXmlFiles>
+                        <suiteXmlFile>${project.basedir}/testng.xml</suiteXmlFile>
+                        <!--此处testng.xml即为要运行的testng.xml文件-->
+                    </suiteXmlFiles>
                 </configuration>
             </plugin>
         </plugins>
